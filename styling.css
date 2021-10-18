@@ -1,0 +1,8 @@
+.gazettetitle {
+    display: flex;
+    align-items: center;
+}
+
+#position {
+    margin-right: 10px;
+}
